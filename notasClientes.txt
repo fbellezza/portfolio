@@ -1,0 +1,23 @@
+nuevaRazonSocial
+nuevoNombreFantasia
+nuevoImpositivo
+nuevaDireccion
+nuevaProvincia
+nuevoPais
+nuevoEmail
+nuevoTelefono
+nuevoTipoDocumento
+nuevoNumeroDocumento
+nuevaFoto
+
+"RazonSocial" => $_POST["nuevaRazonSocial"],
+"NombreFantasia" => $_POST["nuevoNombreFantasia"],
+"Impositivo" => $_POST["nuevoImpositivo"],
+"Direccion" => $_POST["nuevaDireccion"],
+"Provincia" => $_POST["nuevaProvincia"],
+"Pais" => $_POST["nuevoPais"],
+"Email" => $_POST["nuevoEmail"],
+"Telefono" => $_POST["nuevoTelefono"],
+"TipoDocumento" => $_POST["nuevoTipoDocumento"],
+"NumeroDocumento" => $_POST["nuevoNumeroDocumento"],
+"Foto"=>$ruta);

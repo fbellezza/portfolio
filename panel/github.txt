@@ -1,0 +1,12 @@
+git remote add origin git@github.com: fbellezza / mipanel.git
+git push -u origin master
+
+subir archivos nuevo al repositorio git
+git add 'nombre dle archivo'
+
+git commit -m 'versionx'
+
+git push origin master
+
+
+

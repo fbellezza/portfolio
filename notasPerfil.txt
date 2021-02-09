@@ -1,0 +1,9 @@
+Nombre y Apellido
+Profesion/ Stack
+mail
+telefono
+skype
+fecebook
+instagram
+linkedin
+git/github

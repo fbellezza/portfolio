@@ -1,0 +1,9 @@
+Administrador
+	Usuario: fede_bellezza@hotmail.com
+	Password: admin
+Especial
+	Usuario: luca@gmail.com
+	Password: 1234
+Vendedor
+	Usuario: gustavo@gmail.com
+	Password: 1234
